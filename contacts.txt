@@ -1,0 +1,6 @@
+Name,PhoneNumber
+Ahmed Ali,+1xxxxxxxxxx
+Fatima Khan,+44yyyyyyyyyy
+Yusuf Ibrahim,+91zzzzzzzzzz
+Layla Omar,+[CountryCode][PhoneNumberWithoutSpacesOrSymbols]
+# Add more contacts here...
