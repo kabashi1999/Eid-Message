@@ -51,6 +51,7 @@ This script utilizes the `pywhatkit` library, which automates browser interactio
 
 Your project directory should look like this:
 
+```
 your_project_folder/
 ├── your_script_name.py # The main Python script (e.g., send_eid_wishes.py)
 ├── contacts.csv # CSV file containing contact information
@@ -58,6 +59,7 @@ your_project_folder/
 ├── image_for_contact1.jpg
 ├── image_for_contact2.png
 └── ... (other image files)
+```
 
 ## Configuration
 
