@@ -56,9 +56,9 @@ your_project_folder/
 ├── your_script_name.py # The main Python script (e.g., send_eid_wishes.py)
 ├── contacts.csv # CSV file containing contact information
 └── images/ # Folder containing all the images to be sent
-├── image_for_contact1.jpg
-├── image_for_contact2.png
-└── ... (other image files)
+    ├── image_for_contact1.jpg
+    ├── image_for_contact2.png
+    └── ... (other image files)
 ```
 
 ## Configuration
